@@ -4,10 +4,12 @@ O DSList é uma API REST desenvolvida em Java com Spring Boot, projetada para or
 
 Status: Concluído em 24 de maio de 2025.
 
-Nota sobre o Histórico de Commits
-Este repositório foi criado em outubro de 2025 com o objetivo de isolar o projeto, que anteriormente estava em um diretório de estudos com várias outras aplicações. Por essa razão, o histórico de commits detalhado do desenvolvimento original não está presente. O código representa a versão final e funcional do projeto.
+### Nota sobre o Histórico de Commits
+Este repositório foi criado em Outubro de 2025 com o objetivo de isolar este projeto específico.
+Anteriormente, o código fazia parte de um repositório maior de estudos e aprendizado, que continha diversas outras aplicações em Java. Por conta dessa migração, o histórico de commits que documenta todo o processo de desenvolvimento não está presente aqui.
+O código nesta branch `main` representa a versão final e funcional do projeto. O histórico de desenvolvimento original pode ser consultado no repositório antigo: [Projetos_Java](https://github.com/dilluter/Projetos_Java.git).
 
-Funcionalidades Principais
+### Funcionalidades Principais
 Listagem de Games: Exibe todos os jogos disponíveis no banco de dados.
 
 Listagem por Categoria: Exibe os jogos agrupados por listas (ex: "Aventura e RPG", "Jogos de Plataforma").
