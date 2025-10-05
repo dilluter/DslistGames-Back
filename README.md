@@ -15,7 +15,7 @@ Listagem por Categoria: Exibe os jogos agrupados por listas (ex: "Aventura e RPG
 Ordenação de Posições: Permite mover um jogo para uma nova posição dentro de uma lista específica.
 
 Tecnologias Utilizadas
-Backend: Java 17, Spring Boot, Spring Data JPA
+Backend: Java 21, Spring Boot, Spring Data JPA
 
 Banco de Dados: PostgreSQL (Desenvolvimento/Produção) e H2 (Testes)
 
