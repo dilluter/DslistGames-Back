@@ -38,7 +38,7 @@ Docker e Docker Compose
 1. Clone o Repositório
 Bash
 
-git clone <https://github.com/dilluter/Dslist_Games-Backend.git>
+git clone <https://github.com/dilluter/DslistGames-Back.git>
 cd dslist
 2. Configure e Inicie o Banco de Dados com Docker
 Para facilitar a configuração, o projeto utiliza um contêiner Docker para o banco de dados PostgreSQL.
